@@ -1,0 +1,11 @@
+127.0.0.1	localhost
+127.0.0.2	bullseye
+1        	localhost ip6-localhost ip6-loopback
+ff021    	ip6-allnodes
+ff022    	ip6-allrouters
+	
+127.0.1.1	manager01 node-manager
+# le node http1
+192.168.33.11 http1
+# le node bdd1
+192.168.33.12 bdd1
